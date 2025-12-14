@@ -4,10 +4,10 @@ It covers basic backend and frontend concepts like authentication, posting, foll
 
 # Features Implemented
 1) User Authentication
-1 User signup
-2 User login   
-3 Password hashing using bcrypt   
-4 JWT token based authentication
+   User signup
+   User login
+   Password hashing using bcrypt   
+   JWT token based authentication
 
 3) Follow System
    User can follow another user
